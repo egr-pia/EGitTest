@@ -7,7 +7,7 @@ public class HelloWorld
   public static void main(String[] args)
   {
     Compute compute = new Compute();
-    System.out.println("Hello world - test egit with computeClass dans la branche dev mergé sur master + "
+    System.out.println("Hello world - test egit with computeClass dans la branche dev2é "
           + compute.compute(1, 2));
   }
 
